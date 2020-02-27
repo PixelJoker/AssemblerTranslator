@@ -1,0 +1,6 @@
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.exe.config
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.pdb
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslato.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslato.pdb

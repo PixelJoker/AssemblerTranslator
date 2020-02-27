@@ -1,0 +1,14 @@
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.exe.config
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\bin\Release\AssemblerTranslato.pdb
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslator.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslato\AssemblerTranslato\obj\Release\AssemblerTranslato.pdb
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\bin\Release\AssemblerTranslato.exe.config
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\bin\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\bin\Release\AssemblerTranslato.pdb
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\obj\Release\AssemblerTranslator.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\obj\Release\AssemblerTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\obj\Release\AssemblerTranslato.exe
+C:\Users\Анатолий\source\repos\AssemblerTranslator\AssemblerTranslator\obj\Release\AssemblerTranslato.pdb
